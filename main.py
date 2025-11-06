@@ -103,6 +103,9 @@ def menu():
                 else:
                     print("Invalid choice. Please try again.")
 
+        elif choice == "8": # Exit program
+            print("Exiting program.")
+            break
 
 # ----------------- RUN PROGRAM ----------------------
 
